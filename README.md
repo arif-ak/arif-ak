@@ -5,9 +5,8 @@
 
 ## I break web stuff
 
-- 🔭 &emsp;I’m currently looking for a gig.
-- 🌱 &emsp;I’m currently learning ReactJS & some AWS Services.
-- 🥅 &emsp;2020 Goals: Read more, and learn more.
+- 🌱 &emsp;I’m currently learning VueJS & some AWS Services.
+- 🥅 &emsp;2023 Goals: Read more, and learn more.
 
 ### Connect with me:
 
